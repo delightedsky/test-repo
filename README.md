@@ -1,3 +1,5 @@
 # test-repo
 
-print("Hello, World!")
+main() {
+  printf("Hello, World!\n")
+}
